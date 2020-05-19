@@ -1,6 +1,6 @@
 # Windows Tree View API
 
-I did a bucket list project for myself. I really really wanted to dig into the guts of the Windows API, and understand low-level to improve my understanding of the "higher-level" abstract code. I don't see anyone as a real programmer unless they understand real low-level details so they know what's going on. I can blab about this plenty. I have been using too many frameworks in JavaScript & PHP in my life that fell out favor over time, rending all the time & years I spend on those frameworks utterly useless. Ember.JS, Magento, Angular version. I'm looking at you.
+I did a bucket list project for myself. I really wanted to dig into the guts of the Windows API, and understand low-level to improve my understanding of the "higher-level" abstract code. I don't see anyone as a real programmer unless they understand real low-level details so they know what's going on. I can blab about this plenty. I have been using too many frameworks in JavaScript & PHP in my life that fell out favor over time, rending all the time & years I spend on those frameworks utterly useless. Ember.JS, Magento, Angular version. I'm looking at you.
 
 This is just restating a rant that I did for my Google Bookmarks repository which used the Keyboard & Clipboard Listener Windows functions in user32.dll. As I said there, my friends & peers were doing all this black magic in High School, and I needed to know how they did it (It was with Win32 API).
 
